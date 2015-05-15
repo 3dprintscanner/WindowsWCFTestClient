@@ -1,0 +1,9 @@
+c:\users\antonyt\documents\visual studio 2013\Projects\WindowsWCFTestClient\WindowsWCFTestClient\bin\Debug\WindowsWCFTestClient.exe.config
+c:\users\antonyt\documents\visual studio 2013\Projects\WindowsWCFTestClient\WindowsWCFTestClient\bin\Debug\WindowsWCFTestClient.exe
+c:\users\antonyt\documents\visual studio 2013\Projects\WindowsWCFTestClient\WindowsWCFTestClient\bin\Debug\WindowsWCFTestClient.pdb
+c:\users\antonyt\documents\visual studio 2013\Projects\WindowsWCFTestClient\WindowsWCFTestClient\obj\Debug\WindowsWCFTestClient.csprojResolveAssemblyReference.cache
+c:\users\antonyt\documents\visual studio 2013\Projects\WindowsWCFTestClient\WindowsWCFTestClient\obj\Debug\WindowsWCFTestClient.Properties.Resources.resources
+c:\users\antonyt\documents\visual studio 2013\Projects\WindowsWCFTestClient\WindowsWCFTestClient\obj\Debug\WindowsWCFTestClient.csproj.GenerateResource.Cache
+c:\users\antonyt\documents\visual studio 2013\Projects\WindowsWCFTestClient\WindowsWCFTestClient\obj\Debug\WindowsWCFTestClient.exe
+c:\users\antonyt\documents\visual studio 2013\Projects\WindowsWCFTestClient\WindowsWCFTestClient\obj\Debug\WindowsWCFTestClient.pdb
+C:\Users\AntonyT\Documents\Visual Studio 2013\Projects\WindowsWCFTestClient\WindowsWCFTestClient\obj\Debug\WindowsWCFTestClient.Form1.resources

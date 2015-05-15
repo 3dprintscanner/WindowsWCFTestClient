@@ -1,0 +1,9 @@
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\EmployeeDataBaseTest\bin\Debug\EmployeeDataBaseTest.dacpac
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\EmployeeDataBaseTest\bin\Debug\EmployeeDataBaseTest.dll
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\EmployeeDataBaseTest\bin\Debug\EmployeeDataBaseTest.pdb
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\EmployeeDataBaseTest\obj\Debug\Model.xml
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\EmployeeDataBaseTest\obj\Debug\refactor.xml
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\EmployeeDataBaseTest\obj\Debug\postdeploy.sql
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\EmployeeDataBaseTest\obj\Debug\predeploy.sql
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\EmployeeDataBaseTest\obj\Debug\EmployeeDataBaseTest.dll
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\EmployeeDataBaseTest\obj\Debug\EmployeeDataBaseTest.pdb

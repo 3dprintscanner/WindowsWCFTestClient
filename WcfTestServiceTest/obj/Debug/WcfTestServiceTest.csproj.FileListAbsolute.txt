@@ -1,0 +1,7 @@
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\WcfTestServiceTest\bin\Debug\WcfTestServiceTest.dll
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\WcfTestServiceTest\bin\Debug\WcfTestServiceTest.pdb
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\WcfTestServiceTest\obj\Debug\WcfTestServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\WcfTestServiceTest\obj\Debug\WcfTestServiceTest.dll
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\WcfTestServiceTest\obj\Debug\WcfTestServiceTest.pdb
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\WcfTestServiceTest\bin\Debug\TestWcfService.dll
+C:\Users\AntonyT\documents\visual studio 2013\Projects\WindowsWCFTestClient\WcfTestServiceTest\bin\Debug\TestWcfService.pdb
